@@ -102,7 +102,7 @@ body {
 }
 
 .name {
-  font-size: 1.10rem;
+  font-size: 10px;
   font-weight: 500;
   color: #f3e8ff;
   margin-bottom: 10px;
@@ -380,10 +380,10 @@ body {
 }
 
 footer {
-  font-weight: 700;
+  margin-top: 3.125rem;
+  font-size: 0.625rem;
+  font-weight: 400;
   text-align: center;
-  margin-top: 50px;
-  font-size: 15px;
   color: #999;
 }
 
