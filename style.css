@@ -103,7 +103,7 @@ body {
 
 .name {
   font-size: 0.80rem;
-  font-weight: 500;
+  font-weight: 700;
   color: #f3e8ff;
   margin-bottom: 10px;
   text-shadow:
@@ -115,15 +115,15 @@ body {
 @keyframes glowName {
   from {
     text-shadow:
-    0 0 4px #c084fc,
-    0 0 8px #a855f7,
-    0 0 16px #7c3aed;
+      0 0 4px #c084fc,
+      0 0 8px #a855f7,
+      0 0 16px #7c3aed;
   }
   to {
     text-shadow:
-    0 0 6px #e9d5ff,
-    0 0 14px #c084fc,
-    0 0 28px #9333ea;
+      0 0 6px #e9d5ff,
+      0 0 14px #c084fc,
+      0 0 28px #9333ea;
   }
 }
 
@@ -427,12 +427,12 @@ footer {
 }
 
 /*Make image not clickable/copyable*/
-/*img {
+img {
   pointer-events: none;
   user-select: none;
   -webkit-user-drag: none;
   user-drag: none;
-}*/
+}
 
 
 
